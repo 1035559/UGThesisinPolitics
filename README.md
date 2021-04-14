@@ -1,6 +1,6 @@
 # UGThesisinPolitics
 
-##Speeches Analysis
+## Speeches Analysis
 ### Recreating the Speeches analysis will also require you to download the .pdf files for the Hansard transcripts of New Zealand's 44th and 45th Parliaments.
 ### Links are found here: https://www.parliament.nz/en/pb/hansard-debates/historical-hansard
 ### Stored in Vols 539 - 580.
@@ -21,7 +21,7 @@
 ### It's worth noting that the machine learning process in 'Speech Analysis.ipynb' is
 ### The visualisations (including word clouds and box-and-whisker plots included in the thesis) are output by this code, and 
 
-##Conscience Votes Analysis
+## Conscience Votes Analysis
 ### Recreating the Conscience Vote analysis involves the 
 ### \UGThesisinPolitics\InputData\ConscienceVotesDataLegacy.xlsx
 ### file, which is a reformatted version of
@@ -30,5 +30,5 @@
 ### This is because of the multiple sources involved in compiling the data, and the formatting of the original data. 
 ### The filepath referenced in the R code will need to be edited, but the code will output the visualisations and regressions of the conscience votes analysis.
 
-##Types of MP Analysis
+## Types of MP Analysis
 ### The 'types of MP' analysis is contained in the R code for each of the above two analyses as the final portion. 
