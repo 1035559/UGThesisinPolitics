@@ -4,7 +4,8 @@
 ### Recreating the Speeches analysis will also require you to download the .pdf files for the Hansard transcripts of New Zealand's 44th and 45th Parliaments.
 ### Links are found here: https://www.parliament.nz/en/pb/hansard-debates/historical-hansard
 ### Stored in Vols 539 - 580.
-### Any time the code requires an input (e.g. the .pdf files above, the .csv files output by the code, or the .xlsx conscience vote data), path names will need to be edited in your copy of the code. 
+### Much of this code is in .ipynb files: python code designed for use in Jupyter notebook.
+### Any time the code requires an input (e.g. the .pdf files above, the .csv files output by the code, or the .xlsx conscience vote data), path names will need to be edited in your copy of the code. This includes the paths to package files such as the LDA Mallet used.
 ### \UGThesisinPolitics\Speeches Code\1035559 Thesis 44th Parliament Scraper.ipynb
 ### and
 ### \UGThesisinPolitics\Speeches Code\1035559 Thesis 45th Parliament Scraper.ipynb
